@@ -3,7 +3,7 @@
 - Users can choose from algorithms and can observe the sorting process through a dynamic graphical representation.
 
 # demo
-![sorting-visualier](https://github.com/user-attachments/assets/72062141-60e9-49db-9e0f-a7f6c39e5cde)
+![sorting-visualizer](https://github.com/user-attachments/assets/9e2d8c33-f801-498f-9d9a-1157ca448187)
 
 # features
 - Visualize popular sorting algorithms.
